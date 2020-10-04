@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\7 сем\АКГ\CGA\CGA\obj\Debug\CGA.csprojAssemblyReference.cache
+C:\Users\User\Desktop\7 сем\АКГ\CGA\CGA\obj\Debug\CGA.Form1.resources
+C:\Users\User\Desktop\7 сем\АКГ\CGA\CGA\obj\Debug\CGA.Properties.Resources.resources
+C:\Users\User\Desktop\7 сем\АКГ\CGA\CGA\obj\Debug\CGA.csproj.GenerateResource.cache
+C:\Users\User\Desktop\7 сем\АКГ\CGA\CGA\obj\Debug\CGA.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\7 сем\АКГ\CGA\CGA\bin\Debug\CGA.exe.config
+C:\Users\User\Desktop\7 сем\АКГ\CGA\CGA\bin\Debug\CGA.exe
+C:\Users\User\Desktop\7 сем\АКГ\CGA\CGA\bin\Debug\CGA.pdb
+C:\Users\User\Desktop\7 сем\АКГ\CGA\CGA\obj\Debug\CGA.exe
+C:\Users\User\Desktop\7 сем\АКГ\CGA\CGA\obj\Debug\CGA.pdb
